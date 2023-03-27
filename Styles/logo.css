@@ -1,0 +1,15 @@
+.logo{
+    width: 100%;
+    float: left;
+}
+
+.logo__img{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+}
+
+.logo__title{
+    float: inherit;
+    margin-left: 20%;
+}
